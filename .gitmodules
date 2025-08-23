@@ -1,5 +1,7 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
+[submodule "gwas2crispr"]
+	path = gwas2crispr
+	url = https://github.com/leopard0ly/gwas2crispr
